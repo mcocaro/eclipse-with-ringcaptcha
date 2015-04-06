@@ -11,8 +11,8 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
-	private static final String APP_KEY = "4ozucaco7e2o1iqy3ubi";
-    private static final String API_SECRET = "vivy4yzyre2e1edy6eru";
+	private static final String APP_KEY = "APP_KEY";
+    private static final String API_SECRET = "SECRET_KEY";
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
